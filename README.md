@@ -1,4 +1,4 @@
-# Abdul Basit | AI Workforce Decision Architect @ Everise
+#WFM Lead | AI Workforce Decision Systems | Everise
 
 Building Workforce Management (WFM) tools for forecasting, intraday optimization, and staffing analytics.
 
